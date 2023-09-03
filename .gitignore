@@ -1,0 +1,7 @@
+.python-version
+config.py
+access_token
+refresh_token
+/.scannerwork/
+shuffle_*
+sonar-project.properties
