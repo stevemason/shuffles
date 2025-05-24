@@ -24,3 +24,5 @@ Step 6: You should now be good to go. Just run the following command to shuffle 
 If you don't know the playlist ID, this may be obtained from Spotify by sharing the playlist and "copying the link". This link contains the playlist ID.
 
 Please do be mindful that the ```config.py```, ```access_token``` and ```refresh_token``` files contain sensitive data which should be secured appropriately.
+
+UPDATE: As I am no longer a Spotify user, I have archived this repo.
